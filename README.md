@@ -6,7 +6,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on YOOL
+- 🔭 I’m currently working on EPAM SYSTEMS
 - 🌱 I’m currently learning at INHA UNIVERSITY
 - 💬 Ask me about FLUTTER
 - 📫 How to reach me:  
