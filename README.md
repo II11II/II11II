@@ -6,7 +6,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on EPAM SYSTEMS
+- 🔭 I’m currently working at EPAM SYSTEMS
 - 🌱 I am an alumnus of INHA UNIVERSITY
 - 💬 Ask me about FLUTTER/DART
 - 📫 How to reach me:  
@@ -14,8 +14,7 @@ Here are some ideas to get you started:
  + **E-mail:** [skyart450@gmail.com](mailto:skyart450@gmail.com)  
  + **Linkedin:** [linkedin.com/in/Islam_Akhrarov](https://www.linkedin.com/in/islam-akhrarov-35b191174/)  
  + **GitHub:** [github.com/II11II](https://github.com/II11II/)  
- + **Gist:** [gist.github.com/II11II](https://gist.github.com/II11II)    
- + **Instagram:** [instagram.com/Islam_Akhrarov](https://www.instagram.com/islam_akhrarov/)   
+ + **Gist:** [gist.github.com/II11II](https://gist.github.com/II11II)      
 
 
   
